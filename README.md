@@ -6,14 +6,14 @@ Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimen
 
 ### 🌐 Áreas de Atuação & Pesquisa
 * **Data Intelligence:** Processamento e análise de dados voltados para tomadas de decisão.
-* **Backend & Automação:** Desenvolvimento de estruturas escaláveis com Python e Java.
+* **Backend & Automação:** Desenvolvimento de estruturas escaláveis com Python 
 * **Cloud Architecture:** Estudos sobre deploy e infraestrutura em nuvem.
 
 ##
 
 ### 🛠️ Tech Stack
 
-* **Linguagens de Programação:** Python e Java.
+* **Linguagens de Programação:** Python.
 * **Desenvolvimento Web & Interface:** React, TypeScript, JavaScript, HTML5 e CSS3.
 * **Dados & Infraestrutura:** SQL e Cloud Computing.
 
