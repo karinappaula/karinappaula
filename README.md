@@ -20,7 +20,7 @@ Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimen
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,react,html,css" alt="Linguagens e Web" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,html,css" alt="Linguagens e Web" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,gcp,aws" alt="Dados e Cloud" />
 </div>
